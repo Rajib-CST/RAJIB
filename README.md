@@ -1,2 +1,3 @@
 # RAJIB
 THIS IS MY FIRST REPOSITORY
+Author - Rajib Gorai
